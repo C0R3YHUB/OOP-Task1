@@ -21,3 +21,4 @@ int firstNumber = 43;
 int secondNumber = 54;
 int total = firstNumber + secondNumber;
 Console.WriteLine("The sum of the two numbers is: " + total);
+
